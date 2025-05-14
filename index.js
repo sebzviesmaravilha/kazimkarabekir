@@ -29,7 +29,7 @@ app.get('/server', async (req, res) => {
 });
 
 app.get('/youtube', async (req, res) => {
-    res.redirect(`https://www.youtube.com/c/Kp18Gamer`)
+    res.redirect(`https://www.instagram.com/zemheri.asilkan/`)
 });
 
 app.get('/invite', async (req, res) => {
@@ -37,25 +37,25 @@ app.get('/invite', async (req, res) => {
 });
 
 app.get('/github', async (req, res) => {
-    res.redirect(`https://github.com/diwasatreya`)
+    res.redirect(`https://github.com/sebzviesmaravilha`)
 });
 
 app.get('/git', async (req, res) => {
-    res.redirect(`https://github.com/diwasatreya`)
+    res.redirect(`https://github.com/sebzviesmaravilha`)
 });
 
 app.get('/instagram', async (req, res) => {
-    res.redirect(`https://www.instagram.com/atreyadiwas/`)
+    res.redirect(`https://www.instagram.com/zemheri.asilkan/`)
 });
 
 app.get('/ig', async (req, res) => {
-    res.redirect(`https://www.instagram.com/atreyadiwas/`)
+    res.redirect(`https://www.instagram.com/zemheri.asilkan/`)
 });
 
 app.get('/twitter', async (req, res) => {
-    res.redirect(`https://www.instagram.com/atreyadiwas/`)
+    res.redirect(`https://www.instagram.com/zemheri.asilkan/`)
 });
 
 app.get('/reddit', async (req, res) => {
-    res.redirect(`https://www.reddit.com/r/programmingwithmemes`)
+    res.redirect(`https://www.instagram.com/zemheri.asilkan/`)
 });
