@@ -17,6 +17,13 @@ app.get('/', (req, res) => {
 
 });
 
+app.get('/tos', (req, res) => {
+    res.render("tos");
+});
+
+app.get('/privacy', (req, res) => {
+    res.render("privacy");
+});
 
 
 // SOCIAL LINKS [Diwas Atreya]
